@@ -1,7 +1,7 @@
-###Pre-requisites
+## Pre-requisites
 Python 3.11
 
-#Requirements
+## Requirements
 Create a python virtual enviornment and install the requirements
 ```python3 -m venv venc```
 ```$pip3 install requirements.txt```
