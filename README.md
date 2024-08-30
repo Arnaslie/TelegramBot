@@ -1,8 +1,10 @@
-Activate the virtual environment - boticus
-```
-source boticus/bin/activate
-```
-install requirements.txt
+###Pre-requisites
+Python 3.11
+
+#Requirements
+Create a python virtual enviornment and install the requirements
+```python3 -m venv venc```
+```$pip3 install requirements.txt```
 
 ```
 python main.py
