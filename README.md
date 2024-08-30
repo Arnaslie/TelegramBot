@@ -4,9 +4,13 @@ Python 3.11
 ## Requirements
 Create a python virtual enviornment and install the requirements
 
-```python3 -m venv venv```
+```
+python3 -m venv venv
+```
 
-```pip3 install requirements.txt```
+```
+pip3 install requirements.txt
+```
 
 ```
 python main.py
